@@ -25,4 +25,16 @@
 
  - Pavithra G (911719104044)
 
+## Task Completed
+
+ - Literature Survey
+ - Empathy Map
+ - Problem Statement
+ - Ideation
+ - Proposed Solution
+ - Problem Solution Fit
+ - Solution Architecture
+ - Assignment-1
+ - Assignment-2
+
 
