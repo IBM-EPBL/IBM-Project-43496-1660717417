@@ -18,23 +18,16 @@
 ## Team Members
 
  - Princy Sindhiya J A  (911719104047)
-
  - Vaishali T R (911719104079)
-
  - Abinayaa S (911719104003)
-
  - Pavithra G (911719104044)
 
 ## Task Completed
 
- - Literature Survey
- - Empathy Map
- - Problem Statement
- - Ideation
- - Proposed Solution
- - Problem Solution Fit
- - Solution Architecture
+ - Ideation Phase
+ - Project design phase 1
  - Assignment-1
  - Assignment-2
+ - Assignment-3
 
 
