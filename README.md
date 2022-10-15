@@ -22,6 +22,7 @@
 
  - Ideation Phase
  - Project design phase 1
+ - Project design phase 2
  - Assignment-1
  - Assignment-2
  - Assignment-3
