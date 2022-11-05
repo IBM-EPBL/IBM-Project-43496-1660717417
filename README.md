@@ -13,8 +13,9 @@
  
 ## Task Completed
 
- - Project Design and Planning
  - Assignment-1
  - Assignment-2
  - Assignment-3
  - Assignment-4
+ - Project Design and Planning 
+ 
