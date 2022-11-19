@@ -18,4 +18,6 @@
  - Assignment-3
  - Assignment-4
  - Project Design and Planning 
+ - Project Development Phase
+ - Final Deliverables
  
